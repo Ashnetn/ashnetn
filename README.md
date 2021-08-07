@@ -28,12 +28,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <br />
 
-<p>📈 my github stats</p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ashnetn&show_icons=true&theme=gotham" alt="AshiqueNS" />
 
 <br />
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/34261866/128585990-3acbb44c-42e5-40fb-9154-d8c2ba13048c.gif" width="500" height="500" />
 
 
 
