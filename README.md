@@ -14,7 +14,7 @@
 <p>🌱 I’m currently learning MERN stack</p>
 <p>👯 I’m looking to collaborate on MERN stack projects</p>
 <p>🤔 I’m looking for help with Backend development</p>
-<p>📫 How to reach me: nsashique@gmail.com</p>
+<p>📫 How to reach me: <a href="mailto:nsashique@gmail.com">nsashique@gmail.com</a></p>
 
 
 **languages and tools:**  
