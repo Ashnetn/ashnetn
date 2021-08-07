@@ -6,4 +6,6 @@
 🤔 I’m looking for help with Backend development
 📫 How to reach me: nsashique@gmail.com
 
-![63487-programming-computer (1)](https://user-images.githubusercontent.com/34261866/128585883-ab6fa88d-176a-4ec2-81d9-87d8994f5be6.gif)
+![animation_500_ks174lw0](https://user-images.githubusercontent.com/34261866/128585990-3acbb44c-42e5-40fb-9154-d8c2ba13048c.gif)
+
+
