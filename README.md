@@ -10,6 +10,9 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=ashnetn.ashnetn)
 
 <br /> 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Ashnetn&show_icons=true&theme=gotham" alt="AshiqueNS" />
+
+<br />
 <p>🔭 I’m currently working on Javascript Project</p>
 <p>🌱 I’m currently learning MERN stack</p>
 <p>👯 I’m looking to collaborate on MERN stack projects</p>
@@ -28,9 +31,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <br />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Ashnetn&show_icons=true&theme=gotham" alt="AshiqueNS" />
 
-<br />
 
 
 
