@@ -12,7 +12,6 @@
 <br /> 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ashnetn&show_icons=true&theme=gotham" alt="AshiqueNS" />
 
-<br />
 <p>🔭 I’m currently working on Javascript Project</p>
 <p>🌱 I’m currently learning MERN stack</p>
 <p>👯 I’m looking to collaborate on MERN stack projects</p>
